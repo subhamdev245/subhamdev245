@@ -3,7 +3,7 @@
 👨‍💻 I specialize in building robust web and mobile applications using modern frontend technologies.
 
 🌟 Here's what I bring to the table:
-- 💡 Strong proficiency in JavaScript, HTML, and CSS.
+- 💡 Strong proficiency in JavaScript,React,Python and c++
 - ⚛️ Extensive experience in developing scalable and responsive UI components with React.
 - 📱 Proficient in creating cross-platform mobile apps with React Native, delivering native-like experiences.
 - 🛠️ Familiarity with state management libraries like Redux and context API.
